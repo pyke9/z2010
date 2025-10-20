@@ -67,7 +67,7 @@ $(window).on("load", function () {
 	/* https://mattboldt.com/typed.js/ */
 	var typed = new Typed("#text", {
 		strings: [
-			" Chúc mừng Ngày Phụ nữ Việt Nam! Mình hy vọng cậu luôn khỏe mạnh, vui vẻ và tràn đầy năng lượng. Nhân ngày đặc biệt này, xin gửi đến cậu và gia đình những lời chúc tốt đẹp nhất. chúc cậu luôn thành công, hạnh phúc và gặp nhiều may mắn trong cuộc sống. Mong nụ cười cũng sẽ rạng rỡ và ấm áp như thế mỗi ngày.  <br> <b>Hãy luôn tỏa sáng, tự tin và xinh đẹp, chúc cậu có một ngày 20/10 thật tuyệt vời!</b>",
+			" Chúc mừng Ngày Phụ nữ Việt Nam! Đại diện cho anh em chúc chị em luôn khỏe mạnh, vui vẻ và tràn đầy năng lượng. Nhân ngày đặc biệt này, xin gửi đến chị em và gia đình những lời chúc tốt đẹp nhất. chúc chị em luôn thành công, hạnh phúc và gặp nhiều may mắn trong cuộc sống. Mong nụ cười cũng sẽ rạng rỡ và ấm áp như thế mỗi ngày.  <br> <b>Hãy luôn tỏa sáng, tự tin và xinh đẹp, chúc chị em có một ngày 20/10 thật tuyệt vời!</b>",
 		],
 		startDelay: 4500,
 		typeSpeed: 92,
